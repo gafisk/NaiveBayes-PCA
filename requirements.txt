@@ -5,3 +5,4 @@ nltk
 SastraWi
 scikit-learn
 numpy
+openpyxl
