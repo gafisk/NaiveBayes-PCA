@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+pandas
+nltk
+SastraWi
+scikit-learn
+numpy
