@@ -6,3 +6,4 @@ SastraWi
 scikit-learn
 numpy
 openpyxl
+joblib
